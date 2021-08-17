@@ -139,7 +139,7 @@ export default function LandingPage(props) {
                   gutterBottom
                   className={classes.title}
                 >
-                  {'MATERIAL-UI'}
+                  {'PF-UI'}
                 </Typography>
                 <Typography variant="h5" component="p" color="inherit">
                   {t('strapline')}
